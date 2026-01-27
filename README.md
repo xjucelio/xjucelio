@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Jucelio 👋
 
-<!--
-**xjucelio/xjucelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Python Developer with hands-on experience building web applications and backend projects through personal study and practice.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- Junior Python Developer
+- Focus on backend development
+- Experience with Django, REST APIs, and automation scripts
+- Self-taught and continuously improving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Python (Django)
+- Go (basic)
+- HTML / CSS
+- Git & GitHub
+- Docker (basic)
+
+## 📌 Featured Projects
+- **Django Blog** – CRUD web application built with Django  
+- **E-commerce Project** – Django-based e-commerce system  
+- **REST API (Go)** – Simple REST API built using Go
+
+👉 Check my repositories below for more details.
+
+## 🎯 Goals
+- Get my first opportunity as a Junior Developer
+- Learn from experienced developers
+- Build real-world software and grow professionally
+
+## 🌍 Languages
+- Portuguese (Native)
+- English (Basic – improving)
