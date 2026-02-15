@@ -1,77 +1,114 @@
 # Hi, I'm Jucelio 👋
 
-I'm a **Junior Backend Developer** with a strong focus on **Python** and hands-on experience building backend systems and web applications through personal projects and continuous self-study.
 
-I enjoy turning ideas into reliable, real-world software and I'm especially interested in backend development, APIs, and understanding how scalable systems are designed and maintained.
-
----
-
-## 👨‍💻 About Me
-
-- Junior Backend Developer focused on Python
-- Experience building web applications and REST APIs
-- Strong interest in backend architecture and business logic
-- Self-taught, disciplined, and continuously improving
-- Proactive and motivated to learn from experienced developers and teams
+Backend Developer (Python) | Android Developer 
 
 ---
 
-## 🛠 Tech Stack
+## 👋 About Me
 
-- **Python** (Django)
-- **Go** (basic knowledge)
-- **Kotlin** (Android – basic)
-- HTML / CSS
+I am an early-career Backend Developer focused on **Python**, with practical experience building web applications, REST APIs, and a published commercial Android application.
+
+I enjoy designing clean backend architectures, implementing business rules, and understanding how scalable systems are structured. I am self-taught, disciplined, and highly motivated to grow within a professional engineering team.
+
+---
+
+## 🛠 Technical Skills
+
+**Languages**
+- Python 
+- Go (basic)
+- Kotlin (Android)
+
+**Backend & Web**
+- Django
+- REST API design
+- Authentication & authorization
+- Business logic implementation
+- CRUD applications
+
+**Mobile Development**
+- Kotlin
+- Jetpack Compose
+- Google Play Billing
+- AdMob integration
+- DataStore (local persistence)
+
+**Tools**
 - Git & GitHub
 - Docker (basic)
+- Android Studio
+- Linux environment (basic usage)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Selected Projects
 
-### 📝 Django Blog
-- Full CRUD web application built with Django
-- User authentication and content management
-- Focus on clean backend structure and maintainable code
+### Django Blog (Web Application)
 
-### 🛒 E-commerce Project
-- Django-based e-commerce application
-- Product management, shopping cart, and order workflow
-- Practical experience implementing real business rules
-
-### 🔌 REST API (Go)
-- Simple REST API developed using Go
-- Focus on endpoint design, routing, and HTTP concepts
+- Full CRUD web application built with Django  
+- User authentication and content management  
+- Clean separation between models, views, and templates  
+- Focus on maintainability and backend structure  
 
 ---
 
-## 📱 Commercial / Private Project
+### E-commerce Application (Django)
 
-### Cash Calculator App (Android – Paid App)
-
-- Native Android application developed with **Kotlin** using **Android Studio**
-- Published as a **paid app on the Google Play Store**
-- Project idea, features, and business rules fully designed and implemented by me
-- Focused on financial calculations, accuracy, and usability
-- AI tools used as productivity support (code assistance, refactoring, and brainstorming), with full understanding of all implemented logic
-- Source code is private due to commercial reasons
+- Backend-focused e-commerce system  
+- Product management, shopping cart, and order workflow  
+- Implementation of real business logic and validation rules  
+- Structured and scalable project organization  
 
 ---
 
-## 🎯 Career Goals
+### REST API in Go
 
-- Secure my first opportunity as a Junior Developer
-- Learn from experienced engineers and collaborative teams
-- Contribute to real-world projects and grow professionally
+- Simple REST API built using Go  
+- Endpoint design and HTTP handling  
+- Structured routing and clean code principles  
+
+---
+
+## 📱 Commercial Android Application  
+### Cash Calculator (Published on Google Play)
+
+🔗 https://play.google.com/store/apps/details?id=com.xjucelio.cashcalculator  
+
+A production-ready Android application fully designed and developed by me.
+
+**Key Highlights:**
+- Built with Kotlin and Jetpack Compose  
+- FREE vs PRO monetization model  
+- One-time purchase via Google Play Billing  
+- Banner and interstitial ads using AdMob  
+- Persistent data storage with DataStore  
+- Structured architecture (data / core / ui / theme)  
+- Product lifecycle management (updates, versioning, publishing)
+
+This project demonstrates:
+- End-to-end product ownership  
+- Monetization strategy implementation  
+- Clean architecture thinking  
+- State management and persistence  
+- UX-focused development decisions  
+
+(Source code is private due to commercial reasons.)
+
+---
+
+## 🎯 Career Objective
+
+I am seeking an opportunity as a **Junior Backend Developer** (Python) or **Android Developer**, where I can contribute to real-world systems, collaborate with experienced engineers, and continue developing strong software engineering fundamentals.
 
 ---
 
 ## 🌍 Languages
 
 - Portuguese (Native)
-- English (actively improving)
+- English (continuously improving)
 
 ---
 
-👉 Feel free to explore my repositories to see my projects and development progress.
+Feel free to explore my repositories to follow my development journey.
 
