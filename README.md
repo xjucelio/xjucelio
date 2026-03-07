@@ -5,7 +5,7 @@ Backend Developer (Python) | Android Developer
 
 ---
 
-## 👋 About Me
+## About Me
 
 I am an early-career Backend Developer focused on **Python**, with practical experience building web applications, REST APIs, and a published commercial Android application.
 
@@ -13,7 +13,7 @@ I enjoy designing clean backend architectures, implementing business rules, and 
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 **Languages**
 - Python 
@@ -42,7 +42,7 @@ I enjoy designing clean backend architectures, implementing business rules, and 
 
 ---
 
-## 📌 Selected Projects
+## Selected Projects
 
 ### Django Blog (Web Application)
 
@@ -70,7 +70,7 @@ I enjoy designing clean backend architectures, implementing business rules, and 
 
 ---
 
-## 📱 Commercial Android Application  
+## Commercial Android Application  
 ### Cash Calculator (Published on Google Play)
 
 🔗 https://play.google.com/store/apps/details?id=com.xjucelio.cashcalculator  
@@ -97,13 +97,13 @@ This project demonstrates:
 
 ---
 
-## 🎯 Career Objective
+## Career Objective
 
 I am seeking an opportunity as a **Junior Backend Developer** (Python) or **Android Developer**, where I can contribute to real-world systems, collaborate with experienced engineers, and continue developing strong software engineering fundamentals.
 
 ---
 
-## 🌍 Languages
+## Languages
 
 - Portuguese (Native)
 - English (continuously improving)
